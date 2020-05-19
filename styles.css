@@ -1,0 +1,9 @@
+#clear {
+	position: fixed;
+	bottom: 0;
+}
+
+h1 {
+	position: fixed;
+	top: 10px;
+}
